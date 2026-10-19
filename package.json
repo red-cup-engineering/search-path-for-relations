@@ -6,8 +6,7 @@
   "description": "Language-neutral bounded filesystem traversal parameterized by a relation-extraction function.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-code-engineering-services-section.git",
-    "directory": "services/computer-code-development-services-section/services/search-path-for-relations"
+    "url": "git+https://github.com/red-cup-engineering/search-path-for-relations.git"
   },
   "exports": "./src/search-path-for-relations.mjs",
   "scripts": {
